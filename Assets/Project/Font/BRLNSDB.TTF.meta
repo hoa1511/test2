@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 40afcc1be6e424243a16c03c21857d21
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Berlin Sans FB Demi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 817d72755f9f1674ea463c30e918fd18, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
